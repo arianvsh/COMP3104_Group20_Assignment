@@ -1,1 +1,2 @@
-###COMP3
+### This file will contain information about George Brown college ###
+George Brown college
