@@ -1,1 +1,2 @@
-### GBC ###
+### This file contains Information about George Brown College ###
+### This college is located in Canada, Toronto Ontario ###
