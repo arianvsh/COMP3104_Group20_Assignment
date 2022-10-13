@@ -2,3 +2,4 @@
 The purpose of DevOps is to reduce software development, and deployment cycle time.
 DevOps software helps to team members that to be online and they can update the programm and
 solve the issues so fast.
+
