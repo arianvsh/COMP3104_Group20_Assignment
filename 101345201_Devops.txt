@@ -1,1 +1,2 @@
 ### This file contains Information about COMP 3104 ###
+### The prof for this course is Pritesh Patel
