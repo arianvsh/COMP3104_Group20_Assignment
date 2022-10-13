@@ -1,1 +1,2 @@
 ### o	This file will contain details about important of learning DevOps engineer in software development cycle ###
+### DevOps lifecycle is defined as a combination of different phases of continuous software development, integration, testing, deployment, and monitoring. ###
