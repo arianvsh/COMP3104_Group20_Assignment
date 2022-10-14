@@ -1,0 +1,8 @@
+About the importance of learning DevOps:
+
+The learning of DevOps helps in enhancing the software development life cycle
+through cutting the development time from months or weeks to days or even
+hours. Application changes are done faster and frequently reach the production
+environment. Thus, accelerates the prototype development cycle and reduces
+deployment time.
+
