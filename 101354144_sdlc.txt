@@ -6,3 +6,6 @@ hours. Application changes are done faster and frequently reach the production
 environment. Thus, accelerates the prototype development cycle and reduces
 deployment time.
 
+DevOps can play a very vital role to make you more valuable to the
+organization. It can increase your career growth. You can become a Release
+Manager, Project Manager, Automation Architect or even a DevOps Evangelist.
