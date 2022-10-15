@@ -1,0 +1,4 @@
+###This file will contain information about COMP 3104 DevOps course###
+The Comp 3104 DevOps course is practical understanding of continuous development and deployment.
+This course profossor is Pritesh Patel.
+
