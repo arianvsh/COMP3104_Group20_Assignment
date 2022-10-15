@@ -1,0 +1,6 @@
+Learning DevOps is crucial as it is a software development and operations 
+methodology that facilitates quicker creation of new products and simpler 
+maintenance of the deployed applications. A systems thinking approach is promoted 
+by DevOps. Giving everyone the perspective to see how their own activities will affect
+ a project is what DevOps really entails. Everyone is encouraged to see things
+  holistically and to recognize the worth of not just their own but everyone else's contributions.
