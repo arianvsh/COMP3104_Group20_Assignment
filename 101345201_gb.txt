@@ -1,0 +1,4 @@
+### This file contains Information about George Brown College ###
+### This college is located in Canada, Toronto Ontario ###
+### George Brown College has three campuses in Toronto ###
+### Casa Loma Campus, St. James Campus, Waterfront Campus ###
